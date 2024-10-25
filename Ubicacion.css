@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.Dc {
+    margin-bottom: 20px;
+}
+
+iframe {
+    border: 0;
+    max-width: 100%;
+}
+
+header {
+    background-color: burlywood;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    width: 100%;
+}
